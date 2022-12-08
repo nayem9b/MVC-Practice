@@ -1,7 +1,6 @@
 {
   "name": "nayem-api-9.12.22",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -15,5 +14,15 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongodb": "^4.12.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayem9b/Nayem-Api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nayem9b/Nayem-Api/issues"
+  },
+  "homepage": "https://github.com/nayem9b/Nayem-Api#readme",
+  "description": ""
 }
